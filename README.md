@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi there :sunglasses:I am Hudson Nascimento!
 
-<!--
-**HudsonSaqua/HudsonSaqua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<b>I'm a Programming Fan!</b> 
+ <br>
+  <br>
+:mortar_board:<b>Full Stack developer training at <a href="https://rodolfomori.com.br/devclub/">DevClub</a></b>
+### My skills: :computer: :rocket:
+<br>
 
-Here are some ideas to get you started:
+[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+ <br>
+ 
+### 🛠️</a>Development tools:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev/icons?i=vscode,figma,git,github)](https://skillicons.dev)
+
+
+<br>
+
+### Connect to with me:  :calling: :email: :mailbox:
+
+
+
