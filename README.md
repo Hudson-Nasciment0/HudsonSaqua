@@ -28,7 +28,9 @@
 
 <a href="https://wa.me/qr/MRQRPVTBFOUWL1"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt=" logo-linkedin"/></a>
 
-[![Statistic Hudson GitHub stats](https://github-readme-stats.vercel.app/api?username=HudsonSaqua)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HudsonSaqua)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 
